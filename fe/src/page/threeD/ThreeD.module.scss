@@ -1,0 +1,23 @@
+.content {
+    padding-bottom: 20px;
+}
+.texture {
+    height: 100%;
+    text-align: center;
+}
+.title-texture {
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+.landscape {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+}
+.furniture {
+    height: 350px;
+    width: 350px;
+}
