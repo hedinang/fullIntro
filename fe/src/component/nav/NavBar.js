@@ -5,8 +5,8 @@ import { MenuOutlined } from "@ant-design/icons";
 import LeftMenu from "./LeftMenu";
 import RightMenu from "./RightMenu";
 import LeftHorizontalMenu from "./LeftHorizontalMenu";
-// import brand from '../../asset/img/header/1.png'
-import brand from '../../asset/img/header/mkt.png'
+import brand from '../../asset/img/header/1.png'
+// import brand from '../../asset/img/header/mkt.png'
 
 const Navbar = () => {
     const [rightVisible, setRightVisible] = useState(false);

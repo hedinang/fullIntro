@@ -76,11 +76,11 @@ export default function Home() {
         {
             img: ''
         },
-        { img: messi, name: 'messi', position: 'Nodejs and Reactjs' },
-        { img: ronaldo, name: 'ronaldo', position: 'Java and Ios' },
-        { img: maradona, name: 'maradona', position: 'Android and Flutter' },
+        { img: d2, name: 'messi', position: 'Nodejs and Reactjs' },
+        { img: duc1, name: 'ronaldo', position: 'Java and Ios' },
+        { img: na1, name: 'maradona', position: 'Android and Flutter' },
         {
-            img: pele, name: 'pele', position: 'Java and Reactjs'
+            img: tu2, name: 'pele', position: 'Java and Reactjs'
         },
         {
             img: ''

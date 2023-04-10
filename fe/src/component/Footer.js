@@ -1,7 +1,7 @@
 import { Col, Image, Row } from 'antd';
 import React from 'react';
-// import brand from '../asset/img/header/1.png'
-import brand from '../asset/img/header/mkt.png'
+import brand from '../asset/img/header/1.png'
+// import brand from '../asset/img/header/mkt.png'
 export const Footer = () => {
     return <div className='footer'>
         <Row className='container-logo'>
